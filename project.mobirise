@@ -67,8 +67,9 @@
       "text": "W cenu poprawy jakości naszych usług, stosujemy na tej stronie pliki cookies. Więcej szczegółów na ten temat znajdzie na   <a href='privacy.html'>polityka</a>.",
       "textButton": "Wyrażam zgodę"
     },
-    "publishChangesOnly": false,
-    "screenshot": "screenshot.png"
+    "publishChangesOnly": true,
+    "screenshot": "screenshot.png",
+    "google-analytics": "<!-- Google tag (gtag.js) -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-EDR331H27E\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-EDR331H27E');\n</script>"
   },
   "pages": {
     "index.html": {
